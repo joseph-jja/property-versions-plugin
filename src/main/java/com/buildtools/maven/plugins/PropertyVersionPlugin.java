@@ -1,4 +1,4 @@
-package com.macys.maven.plugins;
+package com.buildtools.maven.plugins;
 
 import java.io.File;
 import java.util.ArrayList;
